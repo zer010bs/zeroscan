@@ -1,0 +1,6 @@
+*.nmap
+*.xml
+*.csv
+*.py~
+*.pyc
+venv*
